@@ -1,0 +1,3 @@
+Method,Execution Time
+Simple AES,0.000154
+Optimized AES,1.3e-05

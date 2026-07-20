@@ -1,0 +1,6 @@
+File,File Size (bytes),AES-CBC Time,AES-CTR Time,AES-GCM Time
+modern-wizard.bmp,154514,0.0,0.0,0.0
+nsDialogs.dll,9728,0.0,0.0,0.0
+NSISdl.dll,15360,0.0,0.0,0.0
+StartMenu.dll,7680,0.0,0.0,0.0
+System.dll,12288,0.0,0.0,0.0

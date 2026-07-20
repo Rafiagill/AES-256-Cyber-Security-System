@@ -1,0 +1,4 @@
+AES Mode,Execution Time (seconds)
+AES-CBC,0.0010001659393310547
+AES-CTR,0.0
+AES-GCM,0.0

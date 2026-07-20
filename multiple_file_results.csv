@@ -1,0 +1,4 @@
+File,File Size (bytes),Encryption Time (seconds)
+sample.txt,45,4.409998655319214e-05
+medium.txt,376,1.2600008631125093e-05
+large.txt,1224,1.0100018698722124e-05

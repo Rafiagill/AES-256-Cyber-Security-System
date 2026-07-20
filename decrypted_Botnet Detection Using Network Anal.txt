@@ -1,0 +1,4 @@
+Botnet Detection Using Network Analytics
+Encryption Algorithm Optimization: Based on applicability to utilize in practical applications, investigate and create optimizations for previous encryption methods or develop a novel encryption algorithm that stabilizes safety with computational effectiveness.
+Cybersecurity Awareness VR Experience: A virtual reality (VR) expertise should be developed in such a way that instructs users regarding cybersecurity vulnerabilities and effective ways, like safer password development, secure browsing manners, and detecting phishing attacks.
+Incident Response and Threat Hunting Platform: Encompassing automation of primary analysis, incorporation with threat intelligence, and tools for pre-emptive threat hunting, construct an environment that helps cybersecurity groups in handling event responses.
