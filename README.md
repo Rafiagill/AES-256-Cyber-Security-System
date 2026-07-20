@@ -196,31 +196,31 @@ pyinstaller --onefile --windowed --icon=aes_logo.ico AES_Security_Suite.py
 
 ## Dashboard
 
-(Add Screenshot)
+![image alt}(https://github.com/Rafiagill/AES-256-Cyber-Security-System/blob/14cbc9bf0c485d22cf168859cb034e5f9b878fea/Screenshot_21-7-2026_02017_.jpeg)
 
 ---
 
 ## AES Performance
 
-(Add Screenshot)
+![image alt}(https://github.com/Rafiagill/AES-256-Cyber-Security-System/blob/098d12fc4b05f549cce9d1d72230794b3ca097ac/Screenshot_21-7-2026_02049_.jpeg)
 
 ---
 
 ## Entropy Analysis
 
-(Add Screenshot)
+![image alt](https://github.com/Rafiagill/AES-256-Cyber-Security-System/blob/098d12fc4b05f549cce9d1d72230794b3ca097ac/Screenshot_21-7-2026_02049_.jpeg)
 
 ---
 
 ## Avalanche Analysis
 
-(Add Screenshot)
+![image alt](https://github.com/Rafiagill/AES-256-Cyber-Security-System/blob/098d12fc4b05f549cce9d1d72230794b3ca097ac/Screenshot_21-7-2026_02049_.jpeg)
 
 ---
 
 ## Activity Logs
 
-(Add Screenshot)
+![image alt](https://github.com/Rafiagill/AES-256-Cyber-Security-System/blob/309919c1bf0e501b106da7ca7a78de7e136edbb8/Screenshot_21-7-2026_02120_.jpeg)
 
 ---
 
