@@ -190,7 +190,7 @@ pyinstaller --onefile --windowed --icon=aes_logo.ico AES_Security_Suite.py
 
 ## Login Window
 
-(Add Screenshot)
+![image alt](https://github.com/Rafiagill/AES-256-Cyber-Security-System/blob/6609bbe1a51d71770d2b3c14be08667e050b999c/Screenshot%202026-07-21%20001946.png)
 
 ---
 
